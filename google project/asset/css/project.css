@@ -1,0 +1,68 @@
+
+.hed{text-align:right;
+    word-spacing:10;
+
+}
+.menu{
+        text-decoration-line: none;
+        color: 
+        #403B3B;
+    }
+    .menu:hover{text-decoration:underline;}
+    img{
+        margin:auto 0;
+        width:300px;
+    position:center; }
+    body{text-align: center;
+    word-spacing:5;
+    }
+    .mybody{ margin-top:10%;}
+
+    .btn{    background-color:#052B8A;  
+     color:white;
+     border-radius: 28px;
+     font-family: Arial, Helvetica, sans-serif;
+     padding: 5px 10px 5px 10px;
+}
+.btn:hover{text-decoration:underline;}
+   .in{padding:10px; 
+    width: 600px; 
+
+} 
+.btn2{text-decoration-line:none;
+color:#403B3B;}
+.btn2:hover{text-decoration:underline;}
+p{font-family:'Times New Roman', Times, serif;
+}
+.language{
+    color:#052B8A;
+    text-decoration-line: none;
+    text-align: center;
+
+}
+.language:hover
+{ 
+    text-decoration:underline;
+}
+.foot
+{ position:fixed;
+    bottom:0;
+    width:100%;
+    background-color:gainsboro;
+    font-size:20px;
+font-family:'Times New Roman', Times, serif;
+color:#403B3B;}
+
+.foot2{ 
+    color: #403B3B;
+font-style: bold;
+font-family:'Times New Roman', Times, serif;
+text-decoration: none;}
+.foot2:hover{text-decoration:underline;}
+
+.naija{
+    text-align: left;
+color:#403B3B;}
+.naija:hover{text-decoration:underline;}
+.right{float:right;}
+.left{float:left;}
